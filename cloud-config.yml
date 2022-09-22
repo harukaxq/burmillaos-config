@@ -1,7 +1,7 @@
 ssh_authorized_keys:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC3YpDsXOUhpCJm8wPWRCYNmt1e0/d12/t3En6keHnznmym+ErxuTOtBeZ+WO8g+sGAMY61wVGrGnK2IRXMbqg2a4oJbwWZsmWdSi3ggzV7sV6A7QTDQvO3g4HOwA1iKWb6NknhcYweglF7D44X0PzvfjZm9GFQheXxIQKmLGYpAHpxPSmCGPnXyJaUNvcxArjJye8YS4ikfZ2nrgiktX/85gZqO7Fpug5SgtNFQowDpycLT2O/0/Zf/JyYUGsfi+NnN59gEVHKc6rTTI1JKDUuBRqc+NhQJjbWakBuqIyegxSsXSMZnwMS3kGuQjUkwGZasBAnXfuSKDxCqrNIQlZRDq1uq7iFmnCBl9fH7WtocXSqDTGKFcMl/bKfAFoXNDcry6orDYQisj3+SgJBHuiM/TdhqN6iNVy5c4Sum0KFoB6f7d9C8KsLGXCkd1X5g/J+0pUtQ4J15wdSMLhhDzy6r2Ugy+TLz6Q4P1AJXpHeHBH7xKMEMY98euzCQJvjPP0= hal@LAPTOP-6DT7G9IP
 rancher:
+  password: "9Dv.NWJVsU!kbCz&dfYXN|-quzd)9B(biHth27+x"
   docker:
     host:
-      - tls_args
       - unix:///var/run/docker.sock
